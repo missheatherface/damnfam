@@ -1,0 +1,51 @@
+
+body {
+
+  background-color: pink;
+
+
+}
+
+div {
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-style: double;
+  margin: 40px;
+}
+.container {
+  background-color: white;
+  padding-bottom: 30px;
+
+
+
+}
+
+ h1 {
+   text-align: center;
+   font-size: 70px;
+   font-family: helvetica;
+   font-style: italic;
+
+ }
+
+ .img-circle {
+     border-radius: 50%;
+     max-width: 300px;
+     display: block;
+     margin: 0 auto;
+ }
+
+
+p {
+  font-size: 60px;
+  font-family: helvetica;
+  text-align: center;
+  padding: 5px;
+
+}
+
+.social-network {
+  font-size: 20px;
+
+}
